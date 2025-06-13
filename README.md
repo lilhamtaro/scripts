@@ -1,15 +1,8 @@
-# My Personal Scripts Directory
+# My Personal Scripts
 
 ---
 
-## Directory Structure
-
-├── bin
-├── tools
-├── utils
-└── projects
-
-### What's Inside?
+## What's Inside?
 
 - **bin**
     Contains executable scripts or symlinks to scripts located elsewhere. 

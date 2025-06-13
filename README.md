@@ -5,7 +5,7 @@
 ## What's Inside?
 
 - **tools**
-    Grouped, standalone scripts categorized by function or topic.
+    Standalone scripts categorized by function or topic.
     
 - **utils**
     Helper scripts or libraries with reusable functions used by other scripts
